@@ -1,0 +1,10 @@
+{
+  "files": 3,
+  "turbines": 15,
+  "rows": 11160,
+  "hours_per_turbine": 744,
+  "date_start": "2022-03-01 00:00:00",
+  "date_end": "2022-03-31 23:00:00",
+  "null_cells": 0,
+  "duplicate_keys": 0
+}
